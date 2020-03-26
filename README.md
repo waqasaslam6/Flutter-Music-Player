@@ -30,7 +30,6 @@ First Open Source Flutter based Beautiful Material Design Music Player(Online Ra
 
 <img src="flutey.gif" height="300em" /> <img src="flute1.png" height="300em" /> <img src="flute2.png" height="300em" /> <img src="flute3.png" height="300em" /> <img src="flute4.png" height="300em" /><img src="flute5.png" height="300em" />
 
-* Note - This project also has a plugin to fetch songs and use audio player which can be used in any of your projects. Check the below link.
 
 ## iOS
 
